@@ -8,7 +8,7 @@ scoop bucket add ytm-tui https://github.com/Ochichan/scoop-bucket
 scoop install ytm-tui
 ```
 
-Then run `ytm`. For playback you also need `mpv` and `yt-dlp`:
+Then run `ytt`. For playback you also need `mpv` and `yt-dlp`:
 
 ```powershell
 scoop install mpv yt-dlp
