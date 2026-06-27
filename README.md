@@ -14,6 +14,8 @@ Then run `ytm`. For playback you also need `mpv` and `yt-dlp`:
 scoop install mpv yt-dlp
 ```
 
+Downloads are saved to `$HOME\Music\ytm-tui` by default.
+
 Cookies are optional. Public search and playback work without a cookie file. For signed-in
 YouTube Music access or gated tracks, export a Netscape-format `cookies.txt` to:
 
