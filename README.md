@@ -13,3 +13,12 @@ Then run `ytm`. For playback you also need `mpv` and `yt-dlp`:
 ```powershell
 scoop install mpv yt-dlp
 ```
+
+Cookies are optional. Public search and playback work without a cookie file. For signed-in
+YouTube Music access or gated tracks, export a Netscape-format `cookies.txt` to:
+
+```powershell
+$HOME\Music\ytm-tui\cookies.txt
+```
+
+Keep that file private; it can act like a logged-in browser session.
