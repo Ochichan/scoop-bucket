@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Ochichan/ytm-tui/releases/download/v1.6.0/ytm-tui-windows-x64.zip",
-            "hash": "07b658b6711118cd69a0675fcd7d5deb46d0d2c57985f1486a5e8aa06eb677eb"
+            "hash": "51813c7fca4b61aaaa323e1cdc733055b898da784c123862c88e54db29245558"
         }
     },
     "bin": [
