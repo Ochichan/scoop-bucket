@@ -1,12 +1,12 @@
 {
-    "version": "1.7.2",
+    "version": "1.7.3",
     "description": "Fast, low-RAM YouTube Music player for your terminal",
     "homepage": "https://github.com/Ochichan/Yututui",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ochichan/Yututui/releases/download/v1.7.2/yututui-windows-x64.zip",
-            "hash": "491dc7adcdcef395da75b59dce83de31a1ee532d6dcfe182f70a95be04d97207"
+            "url": "https://github.com/Ochichan/Yututui/releases/download/v1.7.3/yututui-windows-x64.zip",
+            "hash": "70ca7e32dcf97960f6effb8f9863ec49a8fcfddfc4061c0f8fee14c4795b202f"
         }
     },
     "bin": [
